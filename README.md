@@ -43,3 +43,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## Acknowledgements
 
 - This project was created as a sample for learning PHP and basic e-commerce concepts.
+
+## Source 
+
+www.alpbeyazgul.com
